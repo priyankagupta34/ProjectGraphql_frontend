@@ -1,2 +1,2 @@
-# ProjectGraphql_frontend
+# react-graphql
 Created with CodeSandbox
